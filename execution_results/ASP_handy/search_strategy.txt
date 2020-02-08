@@ -1,0 +1,5 @@
+ASP
+
+Search strategy used:
+
+clingo --configuration=handy

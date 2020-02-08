@@ -1,0 +1,12 @@
+% Input: sequence of points
+seq_points = [|1,1
+              |1,4
+              |2,4
+              |5,0
+              |5,1
+              |2,5
+              |0,5
+              |0,0
+             |];
+
+num_points = 8;

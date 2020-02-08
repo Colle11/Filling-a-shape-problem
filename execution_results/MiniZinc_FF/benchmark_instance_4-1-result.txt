@@ -1,0 +1,11 @@
+
+13 13 11 16
+13 11 11 12
+ *  *  *  4
+ 1  2  4  4
+
+Number of "L" pieces = 3
+Number of "U" pieces = 4
+% time elapsed: 0.06 s
+----------
+==========

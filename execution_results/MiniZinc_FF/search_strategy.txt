@@ -1,0 +1,5 @@
+MiniZinc
+
+Search strategy used:
+
+solve :: int_search(pieces, first_fail, indomain_max, complete) minimize num_U_pieces;

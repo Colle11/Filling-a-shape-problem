@@ -1,0 +1,15 @@
+% clingo version 5.3.0
+% Reading from ...rk_instances/benchmark_instance_9-1.lp ...
+% Solving...
+% Answer: 4
+ANSWER
+u_piece(1). u_piece(10). u_piece(19). u_piece(28). u_piece(37). u_piece(26). u_piece(27). u_piece(50). l_piece(18,17,9). l_piece(7,6,16). l_piece(34,33,25). l_piece(32,31,41). l_piece(55,56,46). l_piece(48,49,57). l_piece(65,64,74). num_u_pieces(8). num_l_pieces(7).
+COST 8
+OPTIMUM
+% 
+% Models         : 4
+%   Optimum      : yes
+% Optimization   : 8
+% Calls          : 1
+% Time           : 0.103s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+% CPU Time       : 0.102s

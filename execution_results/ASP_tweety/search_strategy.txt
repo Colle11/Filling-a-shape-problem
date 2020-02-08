@@ -1,0 +1,11 @@
+ASP
+
+Search strategy used:
+
+Default:
+clingo --configuration=auto --share=auto --distribute=conflict,global,4 
+       --integrate=gp --enum-mode=auto --deletion=basic,75,0 --del-init=3.0 
+       --verbose=1 
+[asp] --configuration=tweety
+[cnf] --configuration=trendy
+[opb] --configuration=trendy

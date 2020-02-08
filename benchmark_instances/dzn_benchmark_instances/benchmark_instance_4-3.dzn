@@ -1,0 +1,10 @@
+% Input: sequence of points
+seq_points = [|3,1
+              |4,0
+              |3,4
+              |4,4
+              |0,0
+              |0,1
+             |];
+
+num_points = 6;

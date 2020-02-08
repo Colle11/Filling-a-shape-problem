@@ -1,0 +1,15 @@
+% clingo version 5.3.0
+% Reading from ...k_instances/benchmark_instance_12-4.lp ...
+% Solving...
+% Answer: 8
+ANSWER
+u_piece(80). u_piece(8). u_piece(19). u_piece(38). u_piece(39). u_piece(46). u_piece(54). u_piece(81). u_piece(94). u_piece(119). u_piece(120). l_piece(13,14,1). l_piece(3,2,15). l_piece(28,27,16). l_piece(5,4,17). l_piece(6,7,18). l_piece(32,31,20). l_piece(9,10,21). l_piece(12,11,24). l_piece(45,44,33). l_piece(22,23,34). l_piece(25,26,37). l_piece(30,29,42). l_piece(55,56,43). l_piece(59,60,47). l_piece(36,35,48). l_piece(63,62,51). l_piece(41,40,53). l_piece(49,50,61). l_piece(58,57,70). l_piece(65,66,77). l_piece(72,71,84). l_piece(83,82,95). l_piece(108,107,96). l_piece(85,86,97). l_piece(110,109,98). l_piece(111,112,99). l_piece(88,87,100). l_piece(89,90,101). l_piece(114,113,102). l_piece(106,105,118). l_piece(135,134,123). l_piece(136,137,124). l_piece(116,117,128). l_piece(141,140,129). l_piece(142,143,130). l_piece(132,131,144). num_u_pieces(11). num_l_pieces(36).
+COST 11
+% 
+% TIME LIMIT     : 1
+% Models         : 8+
+%   Optimum      : unknown
+% Optimization   : 11
+% Calls          : 1
+% Time           : 300.000s (Solving: 290.93s 1st Model: 0.27s Unsat: 0.00s)
+% CPU Time       : 299.244s

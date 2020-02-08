@@ -1,0 +1,12 @@
+
+21 21 23 24 24
+21  *  * 24 20
+11  *  *  *  *
+ 1  *  *  *  5
+ 1  1  3  5  5
+
+Number of "L" pieces = 4
+Number of "U" pieces = 4
+% time elapsed: 0.08 s
+----------
+==========

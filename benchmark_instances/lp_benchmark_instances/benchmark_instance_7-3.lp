@@ -1,0 +1,21 @@
+% Input: sequence of points
+point(2,1).
+point(3,1).
+point(5,3).
+point(6,3).
+point(1,4).
+point(5,4).
+point(6,4).
+point(2,5).
+point(3,5).
+point(4,5).
+point(6,5).
+point(3,6).
+point(4,6).
+point(3,0).
+point(6,0).
+point(7,0).
+point(7,7).
+point(0,4).
+point(1,7).
+point(0,0).
